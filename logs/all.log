@@ -11,3 +11,7 @@
 2023-04-02 11:18:53:1853 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
 2023-04-02 14:20:47:2047 - [32minfo[39m - [32mConectou ao bando de dados![39m
 2023-04-02 14:20:47:2047 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2023-04-02 14:21:36:2136 - [32minfo[39m - [32mConectou ao bando de dados![39m
+2023-04-02 14:21:36:2136 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2023-04-02 14:21:40:2140 - [35mhttp[39m - [35mGET /api/test 200 12 - 2.870 ms[39m
+[35m[39m
