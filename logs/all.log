@@ -35,3 +35,13 @@
 [35m[39m
 2023-04-02 15:28:14:2814 - [32minfo[39m - [32mConectou ao bando de dados![39m
 2023-04-02 15:28:14:2814 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2023-04-02 15:29:08:298 - [32minfo[39m - [32mConectou ao bando de dados![39m
+2023-04-02 15:29:08:298 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2023-04-02 15:29:32:2932 - [35mhttp[39m - [35mPOST /api/movie 201 151 - 172.918 ms[39m
+[35m[39m
+2023-04-02 15:34:52:3452 - [32minfo[39m - [32mConectou ao bando de dados![39m
+2023-04-02 15:34:52:3452 - [32minfo[39m - [32mAplicação está funcionando na porta: 3000[39m
+2023-04-02 15:34:54:3454 - [35mhttp[39m - [35mPOST /api/movie 422 296 - 9.851 ms[39m
+[35m[39m
+2023-04-02 15:41:57:4157 - [35mhttp[39m - [35mPOST /api/movie 201 656 - 181.919 ms[39m
+[35m[39m
